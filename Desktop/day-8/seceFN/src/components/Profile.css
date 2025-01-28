@@ -1,0 +1,11 @@
+.photo-p{
+    position:absolute;
+    z-index:5;
+    left:1000px;
+    height:300px;
+    top:170px;
+    width:300px;
+    border-radius:50%;
+    border: 5px solid rgb(240, 233, 233);
+   
+}
